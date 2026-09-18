@@ -1,0 +1,443 @@
+customer_id,city,contract,monthly_charge,total_revenue,tenure_months,internet_type,addon_count
+5804-HYIEZ,Winterhaven,Month-to-Month,106.05,10373.65,70,Fiber Optic,2
+2615-YVMYX,Chula Vista,Month-to-Month,107.5,10025.44,71,Fiber Optic,3
+6067-NGCEU,Topanga,Month-to-Month,-3.0,9822.7,65,Fiber Optic,3
+1469-LBJQJ,Victorville,Month-to-Month,105.2,9724.03,66,Fiber Optic,2
+5055-MGMGF,Half Moon Bay,Month-to-Month,105.05,9621.1,65,Fiber Optic,2
+2360-RDGRO,Sutter,Month-to-Month,104.25,9490.95,65,Fiber Optic,2
+3086-RUCRN,Paicines,Month-to-Month,103.1,9442.24,66,Fiber Optic,4
+6168-YBYNP,Newhall,Month-to-Month,111.35,9358.83,59,Fiber Optic,3
+0130-SXOUN,Glenhaven,Month-to-Month,89.4,9200.36,66,Fiber Optic,1
+0129-KPTWJ,North Highlands,Month-to-Month,94.65,9139.19,72,Fiber Optic,1
+7821-DPRQE,Stockton,Month-to-Month,107.7,8953.58,68,Fiber Optic,3
+5740-YHGTW,Los Angeles,Month-to-Month,97.55,8935.65,70,Fiber Optic,2
+4176-FXYBO,Whittier,Month-to-Month,109.55,8813.55,54,Fiber Optic,3
+5647-FXOTP,Santa Ysabel,Month-to-Month,105.9,8713.85,60,Fiber Optic,2
+7537-CBQUZ,Castroville,Month-to-Month,109.4,8676.38,63,Fiber Optic,3
+3144-KMTWZ,Whittier,Month-to-Month,93.25,8645.21,71,Fiber Optic,2
+4833-QTJNO,Coulterville,Month-to-Month,83.85,8597.1,67,Fiber Optic,2
+8535-SFUTN,Moreno Valley,Month-to-Month,106.45,8499.2,61,Fiber Optic,2
+6847-KJLTS,Frazier Park,Month-to-Month,100.4,8495.52,58,Fiber Optic,1
+4220-TINQT,Raisin City,Month-to-Month,106.35,8436.78,61,Fiber Optic,2
+4194-WHFCB,Aromas,Month-to-Month,96.65,8416.93,59,Fiber Optic,2
+2250-IVBWA,San Jose,Month-to-Month,81.05,8302.71,64,Fiber Optic,2
+4191-XOVOM,Oakland,Month-to-Month,105.4,8275.19,63,Fiber Optic,2
+1170-SASML,Desert Hot Springs,Month-to-Month,85.4,8249.21,69,Fiber Optic,2
+1074-AMIOH,San Francisco,Month-to-Month,108.25,8234.77,53,Fiber Optic,3
+1656-DRSMG,Chico,Month-to-Month,109.85,8200.58,63,Fiber Optic,3
+0595-ITUDF,Fairfax,Month-to-Month,91.8,8173.62,64,Fiber Optic,3
+2027-WKXMW,Montara,Month-to-Month,108.75,8155.01,63,Fiber Optic,3
+1930-WNXSB,Covina,Month-to-Month,92.85,8071.07,58,Fiber Optic,1
+1548-FEHVL,Weed,Month-to-Month,106.2,8062.46,61,Fiber Optic,2
+8785-CJSHH,West Sacramento,Month-to-Month,99.8,8054.55,60,Fiber Optic,1
+1215-FIGMP,Los Angeles,Month-to-Month,89.9,8023.5,60,Fiber Optic,1
+2363-BJLSL,Bonita,Month-to-Month,80.4,8001.79,62,DSL,3
+8016-NCFVO,Glendale,Month-to-Month,116.5,7994.05,55,Fiber Optic,4
+6627-CFOSN,Madera,Month-to-Month,99.45,7979.48,59,Fiber Optic,3
+7789-CRUVC,San Diego,Month-to-Month,94.2,7954.2,61,Fiber Optic,4
+6353-BRMMA,Angwin,Month-to-Month,104.1,7932.7,54,Fiber Optic,2
+0899-WZRSD,Marina Del Rey,Month-to-Month,105.35,7921.89,56,Fiber Optic,2
+6710-HSJRD,Newport Coast,Month-to-Month,114.1,7883.67,61,Fiber Optic,3
+2386-OWURY,Yucaipa,Month-to-Month,95.3,7879.6,58,Fiber Optic,1
+4001-TSBTV,Sacramento,Month-to-Month,91.55,7874.57,58,Fiber Optic,2
+4989-LIXVT,Santa Monica,Month-to-Month,95.9,7840.76,68,Fiber Optic,2
+5921-NGYRH,Stonyford,Month-to-Month,73.55,7840.34,64,Fiber Optic,1
+7426-GSWPO,Portola,Month-to-Month,103.5,7777.45,64,Fiber Optic,2
+4188-FRABG,Sunland,Month-to-Month,103.05,7737.78,57,Fiber Optic,4
+9943-VSZUV,Alamo,Month-to-Month,75.7,7733.48,67,Fiber Optic,0
+1035-IPQPU,Parker Dam,Month-to-Month,103.5,7622.22,63,Fiber Optic,2
+3170-GWYKC,Vernalis,Month-to-Month,104.95,7609.55,60,Fiber Optic,3
+9974-JFBHQ,Del Rey,Month-to-Month,99.15,7605.44,64,Fiber Optic,2
+7233-DRTRF,Fresno,Month-to-Month,102.4,7562.3,63,Fiber Optic,2
+5339-TJFEK,Santa Rosa,Month-to-Month,105.5,7551.7,62,Fiber Optic,2
+3005-TYFRD,Tollhouse,Month-to-Month,103.65,7527.95,55,Fiber Optic,2
+2067-QYTCF,Los Angeles,Month-to-Month,111.15,7503.8,64,Fiber Optic,3
+8384-FZBJK,San Mateo,Month-to-Month,100.6,7456.79,57,Fiber Optic,1
+4983-CLMLV,Escondido,Month-to-Month,102.7,7443.78,52,Fiber Optic,2
+3384-CTMSF,Lincoln,Month-to-Month,104.1,7423.58,47,Fiber Optic,2
+5331-RGMTT,Point Arena,Month-to-Month,99.05,7413.62,54,Fiber Optic,1
+7824-PANSQ,Mammoth Lakes,Month-to-Month,80.65,7398.21,58,Fiber Optic,1
+4462-CYWMH,Lindsay,Month-to-Month,89.8,7333.93,62,Fiber Optic,1
+6908-VVYHM,Pasadena,Month-to-Month,90.65,7330.6,65,Fiber Optic,1
+6212-ATMLK,Rancho Cucamonga,Month-to-Month,95.7,7326.75,50,Fiber Optic,0
+5018-GWURO,Novato,Month-to-Month,85.6,7300.16,56,Fiber Optic,0
+4010-YLMVT,Yucaipa,Month-to-Month,106.6,7281.07,56,Fiber Optic,2
+5649-RXQTV,Alderpoint,Month-to-Month,99.0,7196.98,51,Fiber Optic,2
+8421-WZOOW,Rio Vista,Month-to-Month,95.3,7177.7,57,Fiber Optic,3
+6988-CJEYV,Crows Landing,Month-to-Month,98.7,7148.09,49,Fiber Optic,1
+2378-VTKDH,Woodland,Month-to-Month,104.35,7136.9,65,Fiber Optic,2
+0237-YFUTL,Midway City,Month-to-Month,109.65,7134.3,50,Fiber Optic,3
+1110-KYLGQ,Campbell,Month-to-Month,108.25,7105.81,63,Fiber Optic,3
+0744-GKNGE,Inglewood,Month-to-Month,86.8,7102.61,64,Fiber Optic,2
+4553-DVPZG,Daly City,Month-to-Month,101.35,7098.42,62,Fiber Optic,1
+5002-GCQFH,Hercules,Month-to-Month,93.85,7074.43,49,Fiber Optic,2
+1036-GUDCL,Oak Park,Month-to-Month,-9.0,7049.0,60,DSL,3
+2040-VZIKE,Stevinson,Month-to-Month,100.85,7043.04,49,Fiber Optic,1
+0913-XWSCN,Sun City,Month-to-Month,85.5,7017.35,55,Fiber Optic,0
+6377-WHAOX,Gualala,Month-to-Month,106.15,7010.05,60,Fiber Optic,2
+5206-XZZQI,Orange,Month-to-Month,80.6,7006.78,53,Fiber Optic,2
+0880-FVFWF,Livermore,Month-to-Month,86.4,7002.8,56,Fiber Optic,2
+7271-AJDTL,Sacramento,Month-to-Month,94.45,6976.65,55,Fiber Optic,2
+7872-RDDLZ,Piercy,Month-to-Month,54.9,6970.31,67,DSL,1
+5118-MUEYH,Grand Terrace,Month-to-Month,105.1,6967.55,48,Fiber Optic,2
+8647-SDTWQ,Hood,Month-to-Month,74.3,6935.5,57,Fiber Optic,0
+9079-LWTFD,Pioneertown,Month-to-Month,100.75,6912.51,47,Fiber Optic,3
+2587-EKXTS,San Diego,Month-to-Month,111.5,6870.95,44,Fiber Optic,3
+0487-RPVUM,Mount Hermon,Month-to-Month,99.4,6867.8,61,Fiber Optic,3
+9408-HRXRK,Annapolis,Month-to-Month,105.15,6867.5,45,Fiber Optic,2
+2522-AHJXR,Death Valley,Month-to-Month,109.45,6848.25,60,Fiber Optic,3
+1346-PJWTK,Corona,Month-to-Month,94.15,6813.38,61,Fiber Optic,3
+3865-ZYKAD,Sacramento,Month-to-Month,84.9,6804.09,69,Fiber Optic,2
+7346-MEDWM,Cathedral City,Month-to-Month,83.25,6791.67,59,Fiber Optic,2
+3316-UWXUY,Burbank,Month-to-Month,93.5,6789.0,50,Fiber Optic,3
+9350-VLHMB,Volcano,Month-to-Month,89.55,6785.15,67,Fiber Optic,1
+5136-GFPMB,Spring Valley,Month-to-Month,89.4,6776.78,54,Fiber Optic,1
+4450-MDZFX,Monrovia,Month-to-Month,74.35,6759.7,60,Fiber Optic,0
+6794-HKIAJ,Redondo Beach,Month-to-Month,90.7,6758.25,62,Fiber Optic,3
+2267-WTPYD,Granada Hills,Month-to-Month,94.0,6752.8,57,Fiber Optic,2
+5827-MWCZK,Boonville,Month-to-Month,96.95,6749.32,56,Fiber Optic,2
+1061-PNTHC,Encinitas,Month-to-Month,109.6,6733.64,56,Fiber Optic,3
+9659-QEQSY,Los Angeles,Month-to-Month,115.65,6643.35,45,Fiber Optic,4
+4472-VESGY,Durham,Month-to-Month,98.15,6610.08,52,Fiber Optic,3
+6300-BWMJX,Valencia,Month-to-Month,93.35,6576.45,59,Fiber Optic,2
+2294-DMMUS,Patterson,Month-to-Month,70.45,6565.93,62,DSL,0
+0060-FUALY,Los Angeles,Month-to-Month,94.75,6564.66,59,Fiber Optic,2
+4070-OKWVH,Mira Loma,Month-to-Month,94.6,6545.76,52,Fiber Optic,2
+1697-BCSHV,Guinda,Month-to-Month,66.8,6528.2,58,DSL,1
+5371-VYLSX,Long Beach,Month-to-Month,83.4,6513.2,50,Fiber Optic,2
+0434-CSFON,Los Angeles,Month-to-Month,100.5,6500.15,47,Fiber Optic,1
+5240-CAOYT,Oak View,Month-to-Month,87.55,6494.41,57,Fiber Optic,3
+5076-YVXCM,Tupman,Month-to-Month,83.4,6491.61,51,Fiber Optic,0
+6891-JPYFF,San Jose,Month-to-Month,105.25,6455.52,48,Fiber Optic,2
+5334-JLAXU,French Camp,Month-to-Month,94.1,6408.3,60,Fiber Optic,2
+7130-YXBRO,Cool,Month-to-Month,111.45,6388.38,48,Fiber Optic,3
+7251-XFOIL,Coulterville,Month-to-Month,89.2,6386.32,61,Fiber Optic,1
+0621-HJWXJ,Irvine,Month-to-Month,81.55,6361.5,63,Fiber Optic,1
+7449-HVPIV,Chula Vista,Month-to-Month,90.4,6339.95,55,Fiber Optic,1
+1658-XUHBX,Modesto,Month-to-Month,88.75,6301.5,59,Fiber Optic,1
+4138-NAXED,Joshua Tree,Month-to-Month,81.0,6285.18,51,Fiber Optic,1
+4760-THGOT,San Jose,Month-to-Month,94.1,6234.94,43,Fiber Optic,2
+3969-JQABI,Palo Alto,Month-to-Month,65.25,6230.88,58,DSL,2
+3545-CNWRG,Santa Monica,Month-to-Month,98.35,6230.82,49,Fiber Optic,1
+1833-TCXKK,San Bernardino,Month-to-Month,107.75,6224.25,45,Fiber Optic,2
+2208-UGTGR,Sultana,Month-to-Month,98.6,6196.49,56,Fiber Optic,1
+8468-EHYJA,Palo Verde,Month-to-Month,-3.0,6191.88,57,Fiber Optic,1
+3413-DHLPB,Oceano,Month-to-Month,103.75,6139.75,60,Fiber Optic,2
+4402-FTBXC,Hopland,Month-to-Month,89.8,6134.18,54,Fiber Optic,2
+2796-UUZZO,Redding,Month-to-Month,80.3,6125.79,63,Fiber Optic,2
+9919-YLNNG,Malibu,Month-to-Month,103.8,6123.8,42,Fiber Optic,3
+2786-GCDPI,Pioneertown,Month-to-Month,104.95,6104.85,50,Fiber Optic,2
+9701-CDXHR,Fallbrook,Month-to-Month,69.15,6093.36,51,Fiber Optic,0
+3162-ZJZFU,Mill Creek,Month-to-Month,92.55,6068.94,53,Fiber Optic,2
+1427-VERSM,Shasta,Month-to-Month,98.7,6061.5,56,Fiber Optic,2
+8677-HDZEE,Mountain Center,Month-to-Month,105.45,6056.95,56,Fiber Optic,2
+8782-LKFPK,Beaumont,Month-to-Month,90.4,6039.48,44,Fiber Optic,1
+1492-QGCLU,San Diego,Month-to-Month,85.7,6038.62,53,Cable,3
+7520-HQWJU,Santa Ysabel,Month-to-Month,67.45,5998.18,66,DSL,3
+7803-XOCCZ,Anza,Month-to-Month,84.05,5988.72,52,Fiber Optic,3
+5575-TPIZQ,Buellton,Month-to-Month,89.15,5982.05,46,Fiber Optic,1
+8023-QHAIO,Corona,Month-to-Month,76.85,5939.11,56,Fiber Optic,1
+0239-OXEXL,Oakland,Month-to-Month,84.25,5938.02,46,Fiber Optic,2
+3154-CFSZG,Modesto,Month-to-Month,90.05,5934.95,47,Fiber Optic,2
+3062-ICYZQ,Oak Park,Month-to-Month,93.8,5928.08,51,Fiber Optic,2
+5828-DWPIL,Livermore,Month-to-Month,89.1,5913.42,62,Fiber Optic,3
+2144-BFDSO,Ranchita,Month-to-Month,108.75,5890.9,50,Fiber Optic,3
+3932-IJWDZ,Willits,Month-to-Month,103.65,5861.6,45,Fiber Optic,2
+1867-TJHTS,Sacramento,Month-to-Month,79.8,5844.03,58,Fiber Optic,1
+5188-HGMLP,Middletown,Month-to-Month,74.0,5817.79,54,Fiber Optic,0
+2452-SNHFZ,Elk Creek,Month-to-Month,75.45,5802.51,47,Fiber Optic,1
+5439-WIKXB,Newhall,Month-to-Month,94.55,5796.31,41,Fiber Optic,1
+2267-FPIMA,San Carlos,Month-to-Month,94.4,5793.9,50,Fiber Optic,2
+9822-WMWVG,Grand Terrace,Month-to-Month,106.5,5787.1,41,Fiber Optic,4
+2347-WKKAE,Penryn,Month-to-Month,94.4,5743.32,42,Fiber Optic,2
+6968-GMKPR,French Gulch,Month-to-Month,81.55,5738.2,55,Fiber Optic,2
+3541-ZNUHK,La Crescenta,Month-to-Month,85.1,5692.15,55,Fiber Optic,2
+9732-EQMWY,Concord,Month-to-Month,99.4,5642.11,49,Fiber Optic,2
+3404-JNXAX,Ukiah,Month-to-Month,80.75,5624.46,51,Fiber Optic,1
+2359-KLTEK,Lookout,Month-to-Month,94.9,5618.79,41,Fiber Optic,1
+4062-HBMOS,Redding,Month-to-Month,103.05,5599.97,52,Fiber Optic,2
+3537-HPKQT,Mentone,Month-to-Month,77.75,5556.15,55,Fiber Optic,1
+2279-AXJJK,Cazadero,Month-to-Month,95.65,5541.48,52,Fiber Optic,2
+5630-IXDXV,Reedley,Month-to-Month,106.35,5532.48,47,Fiber Optic,2
+6572-ADKRS,Los Angeles,Month-to-Month,74.8,5500.54,46,Fiber Optic,1
+2270-CHBFN,Ventura,Month-to-Month,95.1,5500.23,44,Fiber Optic,4
+1702-CCFNJ,Los Angeles,Month-to-Month,61.35,5491.35,52,Cable,2
+9495-SKLKD,Marysville,Month-to-Month,95.95,5460.6,45,Fiber Optic,2
+2038-LLMLM,El Centro,Month-to-Month,-4.0,5450.05,48,Fiber Optic,2
+3174-RKMOW,Glendale,Month-to-Month,109.95,5441.0,35,Fiber Optic,3
+3352-ALMCK,Navarro,Month-to-Month,102.65,5419.35,40,Fiber Optic,2
+9688-YGXVR,Salida,Month-to-Month,88.15,5417.72,44,Fiber Optic,2
+8097-VBQTZ,Anaheim,Month-to-Month,69.9,5374.78,54,Cable,3
+7839-NUIAA,Davis Creek,Month-to-Month,59.8,5370.2,61,DSL,2
+9053-EJUNL,Mecca,Month-to-Month,89.2,5359.39,41,Fiber Optic,1
+1020-JPQOW,Angwin,Month-to-Month,90.55,5313.4,56,Fiber Optic,3
+0689-DSXGL,Yreka,Month-to-Month,85.8,5310.54,52,Fiber Optic,3
+2800-QQUSO,Riverside,Month-to-Month,100.3,5301.93,42,Fiber Optic,1
+9822-BIIGN,Los Altos,Month-to-Month,71.85,5288.58,53,Cable,2
+0114-PEGZZ,Round Mountain,Month-to-Month,107.55,5285.27,33,Fiber Optic,2
+0943-ZQPXH,Vacaville,Month-to-Month,92.95,5277.9,44,Fiber Optic,1
+8123-QBNAZ,Scott Bar,Month-to-Month,104.5,5258.15,36,Fiber Optic,2
+3714-NTNFO,Los Angeles,Month-to-Month,84.5,5239.5,49,Fiber Optic,0
+0058-EVZWM,Stockton,Month-to-Month,89.8,5239.0,55,Fiber Optic,1
+1216-BGTSP,Imperial,Month-to-Month,108.45,5233.35,45,Fiber Optic,3
+5977-CKHON,Roseville,Month-to-Month,92.55,5221.07,43,Fiber Optic,1
+1485-YDHMM,San Ardo,Month-to-Month,93.25,5219.3,52,Fiber Optic,2
+5816-QVHRX,San Leandro,Month-to-Month,100.3,5208.62,37,Fiber Optic,1
+3503-TYDAY,Keene,Month-to-Month,80.45,5197.59,43,Fiber Optic,1
+8631-WUXGY,Magalia,Month-to-Month,99.8,5196.71,46,Fiber Optic,2
+5312-UXESG,Indio,Month-to-Month,98.05,5187.39,41,Fiber Optic,1
+7128-GGCNO,Laguna Hills,Month-to-Month,72.8,5140.0,46,Fiber Optic,0
+1935-IMVBB,San Diego,Month-to-Month,89.7,5123.53,56,Fiber Optic,0
+8189-HBVRW,Los Angeles,Month-to-Month,90.8,5114.23,53,Fiber Optic,3
+8400-WZICQ,Long Beach,Month-to-Month,55.7,5100.19,55,DSL,2
+5712-AHQNN,Whittier,Month-to-Month,91.65,5095.75,43,Fiber Optic,2
+4657-FWVFY,Kings Beach,Month-to-Month,96.35,5092.2,40,Fiber Optic,2
+5131-PONJI,Upper Lake,Month-to-Month,90.4,5069.91,49,Fiber Optic,2
+3481-JHUZH,Forks Of Salmon,Month-to-Month,80.25,5051.81,41,Fiber Optic,1
+5982-FPVQN,Camarillo,Month-to-Month,95.15,5050.96,37,Fiber Optic,2
+2832-KJCRD,Los Angeles,Month-to-Month,103.65,5038.6,38,Fiber Optic,2
+4128-ETESU,Pasadena,Month-to-Month,-5.0,5027.26,47,Fiber Optic,1
+5302-BDJNT,Sutter Creek,Month-to-Month,95.5,5014.9,35,Fiber Optic,2
+0701-RFGFI,La Mesa,Month-to-Month,95.4,5014.77,49,Fiber Optic,0
+0419-YAAPX,Grass Valley,Month-to-Month,85.3,4994.24,49,Fiber Optic,1
+7148-XZPHA,Rancho Cordova,Month-to-Month,79.4,4978.2,55,Fiber Optic,2
+8498-XXGWA,Malibu,Month-to-Month,55.15,4972.5,65,DSL,2
+0396-YCHWO,Sacramento,Month-to-Month,95.4,4935.08,36,Fiber Optic,0
+2931-SVLTV,Vallejo,Month-to-Month,110.1,4929.1,40,Fiber Optic,3
+8547-NSBBO,San Pedro,Month-to-Month,96.75,4928.85,35,Fiber Optic,4
+2133-TSRRM,Rosemead,Month-to-Month,105.35,4918.56,34,Fiber Optic,3
+4690-PKDQG,San Diego,Month-to-Month,95.55,4891.98,42,Fiber Optic,2
+3055-OYMSE,Saratoga,Month-to-Month,73.8,4891.07,53,Fiber Optic,1
+3452-SRFEG,La Verne,Month-to-Month,74.6,4887.53,49,Fiber Optic,0
+9470-XCCEM,Torrance,Month-to-Month,89.65,4884.4,35,Fiber Optic,1
+9812-GHVRI,Clements,Month-to-Month,83.85,4878.65,40,Fiber Optic,0
+8378-LKJAF,Santa Ana,Month-to-Month,101.15,4877.06,38,Fiber Optic,1
+4947-DSMXK,Farmersville,Month-to-Month,97.7,4863.16,34,Fiber Optic,1
+7483-IQWIB,Morongo Valley,Month-to-Month,92.95,4854.18,37,Fiber Optic,2
+2669-OIDSD,Long Beach,Month-to-Month,100.05,4845.51,48,Fiber Optic,2
+0376-OIWME,San Ysidro,Month-to-Month,93.6,4837.37,36,Fiber Optic,1
+4726-DLWQN,Live Oak,Month-to-Month,70.35,4816.1,50,DSL,2
+6233-HXJMX,Alpine,Month-to-Month,89.3,4814.05,45,Fiber Optic,1
+9137-UIYPG,Butte City,Month-to-Month,106.9,4785.13,35,Fiber Optic,3
+8548-AWOFC,Huntington Beach,Month-to-Month,63.85,4770.82,66,DSL,1
+0292-WEGCH,Death Valley,Month-to-Month,86.2,4757.87,54,DSL,3
+9782-LGXMC,Walnut Creek,Month-to-Month,61.75,4753.36,49,DSL,3
+8868-GAGIO,Sunnyvale,Month-to-Month,84.55,4739.95,45,Fiber Optic,2
+0147-ESWWR,Atascadero,Month-to-Month,101.25,4735.0,39,Fiber Optic,1
+4385-ZKVNW,San Francisco,Month-to-Month,54.9,4726.86,44,DSL,2
+3863-QSTYI,Mission Viejo,Month-to-Month,64.65,4726.65,59,Cable,2
+2190-BCXEC,Death Valley,Month-to-Month,78.85,4725.65,40,Fiber Optic,1
+1932-UEDCX,Manchester,Month-to-Month,100.6,4725.55,33,Fiber Optic,1
+5243-SAOTC,Bonsall,Month-to-Month,79.85,4720.81,54,Fiber Optic,1
+0089-IIQKO,Coleville,Month-to-Month,99.95,4718.22,39,Fiber Optic,1
+1910-FMXJM,Colton,Month-to-Month,80.4,4713.53,36,Fiber Optic,0
+7048-GXDAY,Fresno,Month-to-Month,106.4,4710.28,39,Fiber Optic,2
+8705-DWKTI,Gasquet,Month-to-Month,83.8,4709.24,52,Fiber Optic,1
+0585-EGDDA,Etna,Month-to-Month,80.0,4695.81,40,Fiber Optic,2
+7776-QGYJC,Shasta Lake,Month-to-Month,81.5,4693.82,39,Fiber Optic,2
+3312-UUMZW,San Jose,Month-to-Month,98.85,4678.38,32,Fiber Optic,1
+0899-LIIBW,Forks Of Salmon,Month-to-Month,100.85,4668.0,34,Fiber Optic,1
+2809-ZMYOQ,Camptonville,Month-to-Month,101.35,4663.86,32,Fiber Optic,1
+3588-WSTTJ,Los Angeles,Month-to-Month,99.05,4662.0,35,Fiber Optic,1
+4724-WXVWF,Earp,Month-to-Month,95.4,4644.5,48,Fiber Optic,2
+2101-RANCD,El Dorado Hills,Month-to-Month,73.1,4636.05,55,Fiber Optic,0
+7502-BNYGS,Wasco,Month-to-Month,69.1,4634.48,46,DSL,1
+1550-EENBN,Concord,Month-to-Month,104.35,4622.61,31,Fiber Optic,2
+4879-GZLFH,Buena Park,Month-to-Month,92.15,4620.9,42,Fiber Optic,1
+6116-RFVHN,Roseville,Month-to-Month,100.45,4614.51,34,Fiber Optic,1
+7621-VPNET,Arcadia,Month-to-Month,85.9,4594.11,42,Fiber Optic,2
+2408-PSJVE,Chino Hills,Month-to-Month,-7.0,4581.97,44,DSL,3
+3714-XPXBW,Santa Cruz,Month-to-Month,78.9,4576.12,37,DSL,4
+6075-QMNRR,Doyle,Month-to-Month,49.75,4559.91,52,DSL,1
+5973-EJGDP,Palm Springs,Month-to-Month,87.35,4550.01,51,Fiber Optic,3
+1552-AAGRX,Visalia,Month-to-Month,106.4,4546.6,30,Fiber Optic,2
+7398-LXGYX,Pioneertown,Month-to-Month,84.8,4523.55,44,Fiber Optic,2
+5619-PTMIK,Lemon Grove,Month-to-Month,53.1,4517.84,46,DSL,1
+2697-NQBPF,Fulton,Month-to-Month,105.35,4492.65,34,Fiber Optic,2
+8591-NXRCV,Malibu,Month-to-Month,74.65,4464.93,41,DSL,3
+6578-KRMAW,Planada,Month-to-Month,93.4,4461.86,32,Fiber Optic,3
+1666-JXLKU,Shingle Springs,Month-to-Month,100.05,4456.57,37,Fiber Optic,1
+6862-CQUMB,San Diego,Month-to-Month,96.1,4454.88,37,Fiber Optic,1
+4821-SJHJV,Calipatria,Month-to-Month,89.6,4453.48,32,Fiber Optic,1
+3524-WQDSG,Corte Madera,Month-to-Month,99.3,4435.7,43,Fiber Optic,1
+6092-QZVPP,Fresno,Month-to-Month,79.2,4425.31,36,Cable,3
+9626-VFRGG,Susanville,Month-to-Month,88.5,4412.57,41,Fiber Optic,1
+5899-OUVKV,Sacramento,Month-to-Month,94.5,4402.72,31,Fiber Optic,1
+3001-UNBTL,Burbank,Month-to-Month,103.95,4396.24,29,Fiber Optic,1
+2080-CAZNM,Burbank,Month-to-Month,104.4,4393.48,41,Fiber Optic,2
+5222-IMUKT,Hornitos,Month-to-Month,91.05,4385.1,32,Fiber Optic,0
+3209-ZPKFI,Borrego Springs,Month-to-Month,54.25,4382.95,47,DSL,1
+6103-QCKFX,Big Bar,Month-to-Month,56.25,4367.57,44,DSL,2
+1028-FFNJK,Burbank,Month-to-Month,101.5,4358.25,30,Fiber Optic,1
+9699-UBQFS,Los Angeles,Month-to-Month,94.5,4314.18,43,Fiber Optic,2
+8017-UVSZU,Calabasas,Month-to-Month,56.6,4310.7,40,DSL,1
+6873-UDNLD,Oakland,Month-to-Month,67.45,4293.0,40,DSL,2
+1472-TNCWL,El Sobrante,Month-to-Month,94.7,4279.3,36,Fiber Optic,1
+9450-TRJUU,Bakersfield,Month-to-Month,83.15,4271.96,35,Fiber Optic,0
+9351-LZYGF,Bodega,Month-to-Month,66.4,4254.5,42,DSL,3
+7982-VCELR,Ramona,Month-to-Month,94.8,4242.43,36,Fiber Optic,1
+8033-ATFAS,San Mateo,Month-to-Month,59.85,4218.96,39,Cable,1
+4998-IKFSE,Phelan,Month-to-Month,100.45,4211.6,30,Fiber Optic,1
+0468-YRPXN,Lomita,Month-to-Month,98.8,4204.9,29,Fiber Optic,2
+1163-ONYEY,Shoshone,Month-to-Month,74.55,4194.1,41,Cable,3
+1421-HCERK,Lakeshore,Month-to-Month,105.7,4186.2,30,Fiber Optic,4
+3128-YOVTD,Forbestown,Month-to-Month,79.15,4147.58,51,Fiber Optic,2
+3572-UOLYZ,San Jose,Month-to-Month,84.8,4146.53,46,Fiber Optic,2
+7422-WNBTY,Green Valley Lake,Month-to-Month,93.35,4140.08,33,Fiber Optic,2
+2378-HTWFW,Newman,Month-to-Month,91.0,4137.15,35,Fiber Optic,1
+7707-PYBBH,Lucerne Valley,Month-to-Month,61.9,4126.3,40,DSL,3
+6745-JEFZB,El Cajon,Month-to-Month,91.5,4120.31,35,Fiber Optic,1
+4067-HLYQI,Colton,Month-to-Month,70.4,4097.95,33,Fiber Optic,0
+7586-ZATGZ,Ravendale,Month-to-Month,84.9,4082.25,40,Fiber Optic,0
+0178-SZBHO,Tuolumne,Month-to-Month,87.2,4068.68,47,Fiber Optic,1
+8329-GWVPJ,Berkeley,Month-to-Month,69.75,4068.2,50,Fiber Optic,0
+4673-KKSLS,Oakland,Month-to-Month,87.6,4062.77,31,Fiber Optic,3
+9971-ZWPBF,Orinda,Month-to-Month,-9.0,4054.36,34,Fiber Optic,3
+5886-VLQVU,Grand Terrace,Month-to-Month,89.85,4050.25,35,Fiber Optic,1
+9577-WJVCQ,West Covina,Month-to-Month,54.45,4048.15,68,DSL,1
+3126-WQMGH,Yorba Linda,Month-to-Month,52.15,4026.33,49,DSL,0
+7356-IWLFW,Weott,Month-to-Month,80.0,4023.62,46,Fiber Optic,1
+0842-IWYCP,Helendale,Month-to-Month,44.95,4023.62,46,Cable,0
+6171-ZTVYB,San Diego,Month-to-Month,66.25,4023.24,43,DSL,3
+7672-VFMXZ,Long Beach,Month-to-Month,55.7,4019.37,57,Cable,2
+6563-VNPMN,Sylmar,Month-to-Month,85.7,4014.4,45,Fiber Optic,3
+7136-IHZJA,Santa Fe Springs,Month-to-Month,71.35,4012.8,40,DSL,3
+2842-BCQGE,San Diego,Month-to-Month,75.35,4006.78,43,Fiber Optic,0
+7925-PNRGI,Chula Vista,Month-to-Month,81.3,4000.55,45,DSL,4
+8800-ZKRFW,Philo,Month-to-Month,107.5,3979.3,30,Fiber Optic,3
+8849-AYPTR,Sacramento,Month-to-Month,91.25,3978.45,33,Fiber Optic,0
+3717-LNXKW,Glenn,Month-to-Month,91.7,3962.03,38,Fiber Optic,1
+5274-XHAKY,Compton,Month-to-Month,94.3,3959.2,41,Fiber Optic,2
+6075-SLNIL,Desert Center,Month-to-Month,95.1,3946.18,38,Fiber Optic,2
+5650-YLIBA,Lakeport,Month-to-Month,81.15,3944.1,31,Fiber Optic,1
+9767-FFLEM,Westmorland,Month-to-Month,69.5,3936.58,38,Fiber Optic,0
+0730-KOAVE,Redwood City,Month-to-Month,94.3,3929.5,30,Fiber Optic,2
+5213-TWWJU,Richmond,Month-to-Month,91.0,3892.87,28,Fiber Optic,2
+0666-UXTJO,Morongo Valley,Month-to-Month,85.2,3882.89,34,Fiber Optic,1
+2716-GFZOR,Raymond,Month-to-Month,86.1,3879.74,43,Fiber Optic,3
+9576-SYUHJ,Long Beach,Month-to-Month,91.15,3871.28,37,Fiber Optic,1
+8709-KRDVL,Scott Bar,Month-to-Month,100.0,3867.41,33,Fiber Optic,1
+1685-BQULA,La Quinta,Month-to-Month,93.4,3865.42,40,Fiber Optic,2
+6088-BXMRG,Cabazon,Month-to-Month,98.85,3858.88,32,Fiber Optic,1
+9944-AEXBM,Casmalia,Month-to-Month,85.65,3849.58,32,Fiber Optic,0
+2826-UWHIS,Sequoia National Park,Month-to-Month,81.4,3847.4,45,Fiber Optic,1
+9308-ANMVE,Los Olivos,Month-to-Month,55.3,3840.8,47,Cable,2
+9555-SAHUZ,Kernville,Month-to-Month,54.5,3834.31,38,Cable,2
+9469-WEJBT,Carnelian Bay,Month-to-Month,90.35,3827.93,37,Fiber Optic,2
+0365-TRTPY,Covina,Month-to-Month,91.2,3816.31,37,Fiber Optic,3
+7459-IMVYU,Chino Hills,Month-to-Month,69.95,3811.55,38,DSL,4
+1097-FSPVW,Pioneertown,Month-to-Month,54.55,3805.77,42,DSL,2
+3528-HFRIQ,Los Angeles,Month-to-Month,52.3,3805.05,71,Cable,2
+3161-GETRM,Soledad,Month-to-Month,90.05,3778.7,34,Fiber Optic,1
+4981-FLTMF,Springville,Month-to-Month,65.2,3775.63,57,DSL,3
+8401-EMUWF,Paramount,Month-to-Month,69.4,3758.44,42,Cable,2
+5951-AOFIH,San Jose,Month-to-Month,66.4,3754.16,33,Cable,2
+2603-HVKCG,Meridian,Month-to-Month,101.4,3744.43,31,Fiber Optic,2
+6959-GQEGV,Canoga Park,Month-to-Month,75.95,3740.0,45,DSL,2
+9885-AIBVB,Newcastle,Month-to-Month,85.8,3735.75,29,Fiber Optic,2
+2874-YXVVA,Herlong,Month-to-Month,105.1,3730.68,34,Fiber Optic,3
+4826-TZEVA,O Neals,Month-to-Month,74.8,3714.5,40,Fiber Optic,1
+5651-YLPRD,Danville,Month-to-Month,86.1,3706.87,32,Fiber Optic,1
+7682-AZNDK,Williams,Month-to-Month,89.85,3701.06,34,Fiber Optic,2
+0708-SJDIS,West Hollywood,Month-to-Month,65.0,3697.02,34,Cable,1
+5153-RTHKF,Palm Springs,Month-to-Month,85.35,3696.96,34,Fiber Optic,0
+2974-GGUXS,Granite Bay,Month-to-Month,91.95,3690.81,36,Fiber Optic,1
+9003-CPATH,Carson,Month-to-Month,79.9,3687.25,42,Fiber Optic,1
+4811-JBUVU,Sherman Oaks,Month-to-Month,89.9,3682.25,30,Fiber Optic,1
+1104-TNLZA,Klamath River,Month-to-Month,105.8,3679.8,28,Fiber Optic,2
+5119-KEPFY,San Jose,Month-to-Month,95.0,3655.89,36,Fiber Optic,0
+5325-UWTWJ,Berkeley,Month-to-Month,90.55,3624.77,31,Fiber Optic,3
+6635-CPNUN,Moreno Valley,Month-to-Month,96.6,3624.31,28,Fiber Optic,2
+7147-AYBAA,Berkeley,Month-to-Month,70.35,3619.98,37,Fiber Optic,0
+9921-EZKBY,Fallbrook,Month-to-Month,95.3,3617.03,33,Fiber Optic,2
+9777-WJJPR,Sacramento,Month-to-Month,88.65,3606.07,31,Fiber Optic,1
+5294-DMSFH,Torrance,Month-to-Month,87.8,3596.73,29,Fiber Optic,0
+8847-GEOOQ,Fontana,Month-to-Month,60.2,3582.4,60,DSL,3
+3896-RCYYE,Atwater,Month-to-Month,53.4,3579.15,67,DSL,2
+8819-IMISP,Redlands,Month-to-Month,80.45,3578.27,31,Fiber Optic,1
+2985-JUUBZ,Dulzura,Month-to-Month,74.55,3570.15,40,DSL,1
+8495-PRWFH,Waterford,Month-to-Month,55.65,3555.75,42,Cable,1
+0289-IVARM,Parlier,Month-to-Month,60.55,3550.95,35,DSL,3
+3597-MVHJT,Brawley,Month-to-Month,95.6,3544.84,27,Fiber Optic,0
+2495-KZNFB,La Mesa,Month-to-Month,90.65,3542.68,33,Fiber Optic,1
+8878-RYUKI,Long Beach,Month-to-Month,59.45,3530.94,52,DSL,1
+2669-QVCRG,Forest Ranch,Month-to-Month,81.3,3511.68,41,Fiber Optic,1
+4504-YOULA,Wilton,Month-to-Month,59.45,3505.75,35,DSL,2
+8404-FYDIB,Los Angeles,Month-to-Month,86.65,3505.37,26,Fiber Optic,2
+6559-PDZLR,Desert Center,Month-to-Month,98.65,3499.0,26,Fiber Optic,2
+9445-ZUEQE,Buena Park,Month-to-Month,85.2,3482.19,27,Fiber Optic,2
+7691-KGKGP,Aliso Viejo,Month-to-Month,65.0,3475.63,53,DSL,2
+4636-JGAAI,San Jose,Month-to-Month,88.85,3475.23,34,Fiber Optic,1
+9115-YQHGA,Lemoore,Month-to-Month,51.1,3472.5,40,DSL,1
+5898-IGSLP,Mountain View,Month-to-Month,89.3,3466.56,31,Fiber Optic,3
+8313-NDOIA,Green Valley Lake,Month-to-Month,104.15,3465.61,24,Fiber Optic,2
+5236-XMZJY,Los Angeles,Month-to-Month,59.65,3463.91,42,Cable,3
+6368-NWMCE,Merced,Month-to-Month,68.15,3461.52,38,DSL,2
+1482-OXZSY,Freedom,Month-to-Month,100.4,3454.05,30,Fiber Optic,1
+1818-ESQMW,San Joaquin,Month-to-Month,89.2,3453.34,27,Fiber Optic,2
+5393-HJZSM,San Francisco,Month-to-Month,76.3,3441.91,32,Cable,4
+1810-MVMAI,San Jose,Month-to-Month,67.6,3441.4,30,Cable,4
+2887-JPYLU,Stinson Beach,Month-to-Month,45.2,3438.44,41,DSL,0
+0699-NDKJM,Westlake Village,Month-to-Month,58.75,3437.45,57,Cable,3
+9518-IMLHK,Sacramento,Month-to-Month,72.45,3434.38,31,DSL,4
+6080-TCMYC,Rosemead,Month-to-Month,81.2,3433.1,40,Fiber Optic,1
+8486-AYEQH,Guatay,Month-to-Month,76.05,3429.98,31,Fiber Optic,0
+2371-JQHZZ,Bakersfield,Month-to-Month,93.0,3413.89,24,Fiber Optic,0
+2105-PHWON,Navarro,Month-to-Month,95.0,3409.37,33,Fiber Optic,2
+2672-TGEFF,Traver,Month-to-Month,88.8,3380.51,37,Fiber Optic,1
+2824-MYYBN,Bakersfield,Month-to-Month,95.25,3373.35,37,Fiber Optic,0
+2455-USLMV,Redlands,Month-to-Month,84.75,3363.91,31,Fiber Optic,2
+8751-EDEKA,Rancho Santa Fe,Month-to-Month,89.9,3360.02,28,Fiber Optic,2
+5061-PBXFW,San Jose,Month-to-Month,61.4,3357.77,32,DSL,3
+3466-RITXD,Twin Bridges,Month-to-Month,92.4,3327.14,26,Fiber Optic,2
+0215-BQKGS,Garden Grove,Month-to-Month,84.3,3310.5,30,Fiber Optic,3
+9793-WECQC,Foresthill,Month-to-Month,-1.0,3301.73,23,Fiber Optic,1
+9500-LTVBP,Rancho Palos Verdes,Month-to-Month,80.05,3295.8,35,Fiber Optic,1
+5201-USSQZ,Monte Rio,Month-to-Month,85.9,3295.21,26,Fiber Optic,1
+3038-PQIUY,Dulzura,Month-to-Month,66.15,3287.72,38,DSL,3
+5995-SNNEW,Whittier,Month-to-Month,104.45,3284.68,23,Fiber Optic,2
+9927-DSWDF,Palos Verdes Peninsula,Month-to-Month,104.6,3273.07,22,Fiber Optic,3
+7714-YXSMB,Irvine,Month-to-Month,100.5,3267.11,26,Fiber Optic,1
+9362-MWODR,San Mateo,Month-to-Month,64.1,3265.55,40,DSL,2
+4993-JCRGJ,Holtville,Month-to-Month,84.3,3261.54,26,Fiber Optic,2
+3370-GQEAL,Indio,Month-to-Month,85.45,3258.42,30,Fiber Optic,0
+5846-QFDFI,Pine Valley,Month-to-Month,88.6,3252.03,33,Fiber Optic,3
+0187-WZNAB,Del Rey,Month-to-Month,74.4,3232.17,27,Fiber Optic,1
+6322-HRPFA,Los Angeles,Month-to-Month,59.6,3229.51,49,Cable,3
+3003-CMDUU,Santa Paula,Month-to-Month,95.15,3220.95,25,Fiber Optic,1
+4391-LNRXK,Port Costa,Month-to-Month,94.95,3200.34,22,Fiber Optic,3
+1730-VFMWO,Petaluma,Month-to-Month,50.2,3198.08,34,DSL,1
+3164-YAXFY,Coulterville,Month-to-Month,53.75,3196.0,57,DSL,2
+5226-NOZFC,Modesto,Month-to-Month,85.75,3195.6,26,Fiber Optic,1
+3956-MGXOG,Modesto,Month-to-Month,80.6,3192.47,28,Fiber Optic,0
+2240-HSJQD,La Mesa,Month-to-Month,81.85,3189.96,38,Fiber Optic,1
+6481-ESCNL,Clayton,Month-to-Month,100.55,3188.18,29,Fiber Optic,1
+2208-NQBCT,San Jose,Month-to-Month,81.95,3186.75,26,Fiber Optic,2
+5482-VXSXJ,Tehama,Month-to-Month,93.2,3180.3,22,Fiber Optic,1
+3450-WXOAT,Bakersfield,Month-to-Month,45.2,3175.13,46,Cable,0
+7587-AOVVU,Arcata,Month-to-Month,100.75,3173.44,27,Fiber Optic,3
+5382-TEMLV,Lindsay,Month-to-Month,50.9,3171.1,45,DSL,1
+9360-OMDZZ,Herald,Month-to-Month,94.1,3162.93,24,Fiber Optic,0
+6538-POCHL,Mountain Center,Month-to-Month,79.0,3158.59,33,Fiber Optic,2
+4422-QVIJA,Los Angeles,Month-to-Month,50.15,3144.05,35,DSL,0
+9058-MJLZC,Yuba City,Month-to-Month,94.6,3136.59,24,Fiber Optic,1
+2523-EWWZL,Blythe,Month-to-Month,76.1,3134.35,27,Fiber Optic,1
+8728-SKJLR,Olancha,Month-to-Month,74.25,3133.38,41,Fiber Optic,1
+0581-MDMPW,San Jose,Month-to-Month,88.95,3130.91,24,Fiber Optic,1
+0257-KXZGU,Santa Clara,Month-to-Month,62.45,3110.51,32,DSL,2
+3192-LNKRK,San Joaquin,Month-to-Month,84.05,3102.05,34,Fiber Optic,1
+6752-APNJL,Woodlake,Month-to-Month,54.5,3096.21,42,DSL,2
+8756-RDDLT,San Leandro,Month-to-Month,44.95,3085.35,68,Cable,2
+2616-UUTFK,Bakersfield,Month-to-Month,72.75,3078.08,33,DSL,3
+0118-JPNOY,Le Grand,Month-to-Month,85.8,3070.89,26,Fiber Optic,1
+8149-AIQCG,Redondo Beach,Month-to-Month,73.15,3069.76,39,Fiber Optic,0
+3999-WRNGR,Soda Springs,Month-to-Month,49.75,3069.45,60,Cable,1
+7241-AJHFS,Escondido,Month-to-Month,87.65,3066.93,32,Fiber Optic,2
+1518-OMDIK,Rohnert Park,Month-to-Month,44.55,3062.77,33,DSL,0
+5022-KVDQT,Woodland Hills,Month-to-Month,81.3,3061.64,27,Fiber Optic,1
+4795-WRNVT,Pomona,Month-to-Month,65.1,3048.4,40,DSL,2
+2129-ALKBS,Needles,Month-to-Month,26.2,3046.3,40,,0
+5151-HQRDG,Placerville,Month-to-Month,55.05,3044.92,37,DSL,1
+9931-KGHOA,Santa Barbara,Month-to-Month,55.0,3042.86,46,DSL,1
+7392-YYPYJ,Santa Ana,Month-to-Month,100.65,3036.18,22,Fiber Optic,1
+0410-IPFTY,Long Beach,Month-to-Month,83.85,3035.71,31,Fiber Optic,1

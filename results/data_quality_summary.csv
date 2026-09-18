@@ -1,0 +1,8 @@
+check,result,interpretation
+Customer rows,7043,One row per customer
+Unique customer IDs,7043,No duplicate customer IDs
+Duplicate customer IDs,0,Passed
+Unmatched customer ZIP codes,0,Passed
+Missing churn reasons among churned customers,0,Passed
+Negative monthly-charge anomalies,120,Flagged and preserved pending source clarification
+Total-revenue formula mismatches,0,Passed

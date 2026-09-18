@@ -1,0 +1,4 @@
+payment_method,customers,churned,churn_rate_pct
+Mailed Check,385,142,36.88
+Bank Withdrawal,3909,1329,34.0
+Credit Card,2749,398,14.48

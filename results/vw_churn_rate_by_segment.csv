@@ -1,0 +1,11 @@
+segment_type,segment_value,customers,churned,churn_rate_pct
+Contract,Month-to-Month,3610,1655,45.84
+Contract,One Year,1550,166,10.71
+Contract,Two Year,1883,48,2.55
+Internet Type,Fiber Optic,3035,1236,40.72
+Internet Type,Cable,830,213,25.66
+Internet Type,DSL,1652,307,18.58
+Internet Type,No Internet,1526,113,7.4
+Payment Method,Mailed Check,385,142,36.88
+Payment Method,Bank Withdrawal,3909,1329,34.0
+Payment Method,Credit Card,2749,398,14.48

@@ -1,0 +1,4 @@
+contract,customers,churned,churn_rate_pct
+Month-to-Month,3610,1655,45.84
+One Year,1550,166,10.71
+Two Year,1883,48,2.55

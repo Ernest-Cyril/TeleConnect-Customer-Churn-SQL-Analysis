@@ -1,0 +1,11 @@
+customer_id,total_revenue,contract,churn_category,revenue_rank,running_cumulative_historical_revenue
+2889-FPWRM,11195.44,One Year,Competitor,1,11195.44
+3259-FDWOY,11084.84,Two Year,Competitor,2,22280.28
+2834-JRTUA,11040.97,Two Year,Competitor,3,33321.25
+1984-FCOWB,10756.15,One Year,Attitude,4,44077.4
+5287-QWLKY,10718.96,Month-to-Month,Attitude,5,54796.36
+9835-ZIITK,10717.17,One Year,Competitor,6,65513.53
+5440-FLBQG,10690.92,Two Year,Attitude,7,76204.45
+9090-SGQXL,10507.21,Month-to-Month,Competitor,8,86711.66
+0979-PHULV,10374.8,Month-to-Month,Competitor,9,97086.46
+3886-CERTZ,10351.16,One Year,Competitor,10,107437.62

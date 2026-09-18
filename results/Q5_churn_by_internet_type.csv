@@ -1,0 +1,5 @@
+internet_type,customers,churned,churn_rate_pct
+Fiber Optic,3035,1236,40.72
+Cable,830,213,25.66
+DSL,1652,307,18.58
+No Internet,1526,113,7.4

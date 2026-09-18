@@ -1,0 +1,2 @@
+log_id,table_name,column_name,issue_description,rows_affected,action_taken
+1,customer_billing,monthly_charge,Negative monthly-charge values require source clarification,120,Flagged and preserved; excluded from monthly-charge averages

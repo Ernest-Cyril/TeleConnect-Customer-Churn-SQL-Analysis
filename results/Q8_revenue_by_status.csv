@@ -1,0 +1,4 @@
+customer_status,customers,historical_total_revenue,avg_historical_revenue_per_customer
+Churned,1869,3684459.82,1971.35
+Joined,454,54279.75,119.56
+Stayed,4720,17632392.12,3735.68

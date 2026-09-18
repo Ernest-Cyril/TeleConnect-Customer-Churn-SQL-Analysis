@@ -1,0 +1,11 @@
+city,zip_code,population,customers,churned,churn_rate_pct,churn_rank_by_volume
+San Diego,92122,34902,36,33,91.67,1
+San Diego,92117,51213,34,30,88.24,2
+San Diego,92126,74232,32,28,87.5,3
+Fallbrook,92028,42239,43,26,60.47,4
+San Diego,92109,46086,27,24,88.89,5
+San Diego,92130,28201,22,20,90.91,6
+Temecula,92592,46171,30,18,60.0,7
+San Diego,92121,4258,20,17,85.0,8
+Escondido,92027,48690,38,15,39.47,9
+San Diego,92129,47224,16,15,93.75,9

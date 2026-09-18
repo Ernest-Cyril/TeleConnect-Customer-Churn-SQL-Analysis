@@ -1,0 +1,3 @@
+customer_status,avg_tenure_months,avg_monthly_charge_excluding_anomalies
+Churned,18.0,74.62
+Stayed,41.0,62.96
