@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# MySQL Workbench local state and connections
+*.autosave
+*.bak
+connections.xml
+server_instances.xml
+
+# Credentials and environment files
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+~$*
